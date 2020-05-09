@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=esviji
+Exec=webapp-container --app-id="esviji.cibersheep" $@ www/index.html
+Icon=assets/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
