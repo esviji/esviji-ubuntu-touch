@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="512" width="512" version="1.1" class="logo">
+ <rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-rendering:auto;solid-color:#000000;image-rendering:auto" ry="0" height="512" width="512" y="0" x="0" fill="#fff"/>
+ <circle style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-rendering:auto;solid-color:#000000;image-rendering:auto" cx="256" stroke-linecap="round" stroke="#787878" stroke-dashoffset="29.48" cy="256" r="172" stroke-width="11.88" fill="#444"/>
+ <circle stroke-width="3.681" stroke="#2980b9" cy="134.5" cx="134.5" r="36.81" fill="#3498db"/>
+ <circle stroke-width="3.681" stroke="#27ae60" cy="134.5" cx="215.5" r="36.81" fill="#2ecc71"/>
+ <circle stroke-width="3.681" stroke="#8e44ad" cy="134.5" cx="296.5" r="36.81" fill="#9b59b6"/>
+ <circle stroke-width="3.681" stroke="#27ae60" cy="134.5" cx="377.5" r="36.81" fill="#2ecc71"/>
+ <circle stroke-width="3.681" stroke="#e67e22" cy="215.5" cx="134.5" r="36.81" fill="#f39c12"/>
+ <circle stroke-width="3.681" stroke="#2980b9" cy="215.5" cx="215.5" r="36.81" fill="#3498db"/>
+ <circle stroke-width="3.681" stroke="#c0392b" cy="215.5" cx="296.5" r="36.81" fill="#e74c3c"/>
+ <circle stroke-width="3.681" stroke="#2980b9" cy="215.5" cx="377.5" r="36.81" fill="#3498db"/>
+ <circle stroke-width="3.681" stroke="#2980b9" cy="296.5" cx="134.5" r="36.81" fill="#3498db"/>
+ <circle stroke-width="3.681" stroke="#27ae60" cy="296.5" cx="215.5" r="36.81" fill="#2ecc71"/>
+ <circle stroke-width="3.681" stroke="#8e44ad" cy="296.5" cx="296.5" r="36.81" fill="#9b59b6"/>
+ <circle stroke-width="3.681" stroke="#e67e22" cy="296.5" cx="377.5" r="36.81" fill="#f39c12"/>
+ <circle stroke-width="3.681" stroke="#27ae60" cy="377.5" cx="134.5" r="36.81" fill="#2ecc71"/>
+ <circle stroke-width="3.681" stroke="#8e44ad" cy="377.5" cx="215.5" r="36.81" fill="#9b59b6"/>
+ <circle stroke-width="3.681" stroke="#e67e22" cy="377.5" cx="296.5" r="36.81" fill="#f39c12"/>
+ <circle stroke-width="3.681" stroke="#8e44ad" cy="377.5" cx="377.5" r="36.81" fill="#9b59b6"/>
+ <circle opacity=".1" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;paint-order:markers stroke fill;shape-rendering:auto;solid-color:#000000;image-rendering:auto" fill-opacity=".9412" cy="332.2" cx="386.2" r="180" fill="#2e0d0d"/>
+</svg>
