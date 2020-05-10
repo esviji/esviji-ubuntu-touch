@@ -1,0 +1,19 @@
+<svg class="logo" version="1.1" viewBox="0 0 176 176"> 
+<circle fill="#3498db" stroke="#2980b9" stroke-width="2" cx="22" cy="22" r="20"></circle>
+<circle fill="#2ecc71" stroke="#27ae60" stroke-width="2" cx="66" cy="22" r="20"></circle>
+<circle fill="#9b59b6" stroke="#8e44ad"  stroke-width="2" cx="110" cy="22" r="20"></circle>
+<circle fill="#2ecc71" stroke="#27ae60" stroke-width="2" cx="154" cy="22" r="20"></circle>
+<circle fill="#f39c12" stroke="#e67e22"  stroke-width="2" cx="22" cy="66" r="20"></circle>
+<circle fill="#3498db" stroke="#2980b9" stroke-width="2" cx="66" cy="66" r="20"></circle>
+<circle fill="#e74c3c" stroke="#c0392b"  stroke-width="2" cx="110" cy="66" r="20"></circle>
+<circle fill="#3498db" stroke="#2980b9" stroke-width="2" cx="154" cy="66" r="20"></circle>
+<circle fill="#3498db" stroke="#2980b9" stroke-width="2" cx="22" cy="110" r="20"></circle>
+<circle fill="#2ecc71" stroke="#27ae60" stroke-width="2" cx="66" cy="110" r="20"></circle>
+<circle fill="#9b59b6" stroke="#8e44ad"  stroke-width="2" cx="110" cy="110" r="20"></circle>
+<circle fill="#f39c12" stroke="#e67e22"  stroke-width="2" cx="154" cy="110" r="20"></circle>
+<circle fill="#2ecc71" stroke="#27ae60" stroke-width="2" cx="22" cy="154" r="20"></circle>
+<circle fill="#9b59b6" stroke="#8e44ad"  stroke-width="2" cx="66" cy="154" r="20"></circle>
+<circle fill="#f39c12" stroke="#e67e22"  stroke-width="2" cx="110" cy="154" r="20"></circle>
+<circle fill="#9b59b6" stroke="#8e44ad"  stroke-width="2" cx="154" cy="154" r="20"></circle>
+</svg>
+

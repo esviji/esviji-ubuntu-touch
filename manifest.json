@@ -9,7 +9,7 @@
             "desktop":  "esviji.desktop"
         }
     },
-    "version": "2.5.3",
+    "version": "2.5.5",
     "maintainer": "Joan CiberSheep <cibersheep@gmail.com>",
     "framework" : "ubuntu-sdk-16.04"
 }
