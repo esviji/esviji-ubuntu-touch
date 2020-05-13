@@ -1,7 +1,9 @@
 [Desktop Entry]
 Name=esviji
-Exec=webapp-container --app-id="esviji.cibersheep" $@ www/index.html
+Exec=qmlscene --scaling qml/Main.qml
 Icon=assets/logo.svg
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#444444
+Name[ca]=esviji.desktop
