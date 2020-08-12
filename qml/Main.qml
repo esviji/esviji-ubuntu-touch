@@ -29,6 +29,7 @@ MainView {
 
         WebContext {
             id: webcontext
+            offTheRecord: false
         }
 
         WebView {
